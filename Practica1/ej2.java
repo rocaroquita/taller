@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+2- Escriba un programa que lea las alturas de los 15 jugadores de un equipo de
+básquet y las almacene en un vector. Luego informe:
+- la altura promedio
+- la cantidad de jugadores con altura por encima del promedio
+NOTA: Dispone de un esqueleto para este programa en Ej02Jugadores.java
  */
 package practica1;
 import PaqueteLectura.Lector;
